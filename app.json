@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "advice_jokes",
-    "slug": "advice",
+    "name": "Mediation",
+    "slug": "mediation",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -10,9 +10,9 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./src/assets/images/icon.png",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./src/assets/images/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Advice and jokes in hopes of making your day a little better",
+    "githubUrl": "https://github.com/rvehall/advice-jokes"
   }
 }
